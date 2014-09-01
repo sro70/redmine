@@ -2,7 +2,7 @@ require 'redmine'
 
 Redmine::Plugin.register :redmine_workflow_macro do
   name 'Redmine Custom Workflow macro extension'
-  url 'https://github.com'
+  url 'https://github.com/sro70/redmine'
   author 'Stefan Roethig'
   description 'Add the macro.'
   author_url 'mailto:dev@realraum-media.de'
